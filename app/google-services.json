@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475952548356",
+    "firebase_url": "https://testesp-e2fe4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testesp-e2fe4",
+    "storage_bucket": "testesp-e2fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475952548356:android:b4e64925e9a3e4ee238351",
+        "android_client_info": {
+          "package_name": "com.pioneer.ete.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475952548356-5a4hlnrj146ku30macnca6j1r7cvplst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhtQEhlNeRXy-ci1nZ8BLBuv7p8MRvGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475952548356-5a4hlnrj146ku30macnca6j1r7cvplst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
